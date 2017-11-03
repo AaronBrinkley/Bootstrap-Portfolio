@@ -1,0 +1,46 @@
+#Footer {
+	background: #666666 ;
+	bottom: 0 ;
+	position: fixed ;
+	height: 100px ;
+	width: 100% ;
+	text-align: center ;
+	border-top: 10px solid #4aaaa5 ;
+	padding-top: 15px ;
+	color: white ;
+	margin-top: 40px ;
+}
+
+img {
+	margin: 20px;
+}
+
+#Name { 
+	color: #ffffff ;
+}
+
+h1 {
+	border-bottom: 4px solid #4aaaa5 ;
+}
+
+textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    width: 100%;
+}
+
+.Site-footer {
+	margin-top: 138px ;
+	padding-top: 30px ;
+	background: #666666 ;
+	border-top: 10px solid #4aaaa5 ;
+}
+
+.Site-footer p {
+	color: white ;
+	text-align: center;
+}
+
+
